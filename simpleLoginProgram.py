@@ -1,8 +1,8 @@
+
 print("CREATE YOUR ACCOUNT BELOW ")
 Username = input("Enter Username: ")
 Password = input("Enter Password: ") 
 confirmPassword = input("Confirm your Password: ")
-
 if(Password == confirmPassword):
     print("Acoount created successfully, login below.")
 else:
