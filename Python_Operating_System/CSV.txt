@@ -1,0 +1,5 @@
+name,phone,role
+John Doe,1234567890,Manager
+Jane Smith,9876543210,Developer
+Michael Johnson,5555555555,Analyst
+Sara Williams,9998887776,Designer
